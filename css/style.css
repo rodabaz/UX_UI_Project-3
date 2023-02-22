@@ -73,7 +73,9 @@ img {
     margin-bottom: 2rem !important;
 }
 
-
+.py-0 {
+    padding-top: 120px!important; 
+}
 
 section {
     padding-top: 120px;
@@ -143,5 +145,38 @@ section {
 
 
 
+/*<!-- SERVICES -->
+<section id="services"> 
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-md-8 mx-auto text-center">
+                <h6 class="text-primary"></h6>
+                <!-- <h1>App</h1> -->
+                <!-- <p>Lorrreemm Ipssuummm</p> -->
+            </div>
+        </div>
+        <div class="row g-4"> 
+            <div class="col-lg-4 col-sm-6"> 
+                <div class="service card-effect"> 
+                    <h5>Customize</h5>
+                    <p>Choose your story style and reader's age. Enter a few words!</p> 
+                </div> 
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="service card-effect">
+                    <h5>Ai helps you  </h5>
+                    <p>Generate new stories in seconds with your word list!</p> 
+                </div>
+            </div>
+           <div class="col-lg-4 col-sm-6">
+                <div class="service card-effect"> 
+                    <h5>Your account </h5>
+                    <p>View your previous stories</p> 
+                </div> 
+            </div> 
+        </div>
 
+    </div>
+
+</section>    <!-- //SERVICES -->*/
 
