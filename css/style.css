@@ -20,6 +20,7 @@ h1,h2,h3,h4,h5,h6,
     font-weight: 700;
 }
 
+
 a {
     color: var(-dark);
     text-decoration: none;
@@ -43,7 +44,7 @@ img {
 .hero {
     background-image: url(../images/iphone_mockup.png);
     background-position: center;
-    background-size: 950px;
+    background-size: 910px;
     /*background-size: cover;*/
     background-attachment: fixed;
     position: relative;
@@ -58,10 +59,20 @@ img {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(33, 27, 64, 0.5);
+    background-color: rgba(33, 27, 64, 0.6);
     z-index: -1;
     
 }
+
+.display-4 {
+    font-size: 2.5rem;
+}
+
+.my-5 {
+    margin-top: 8rem !important;
+    margin-bottom: 2rem !important;
+}
+
 
 
 section {
