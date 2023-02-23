@@ -42,10 +42,10 @@ img {
 }
 
 .hero {
-    background-image: url(../images/iphone_mockup.png);
+    background-image: url(../images/feather\ 3\ with\ ipad\ and\ iphone.png);
     background-position: center;
-    background-size: 910px;
-    /*background-size: cover;*/
+    /*background-size: 910px;*/
+    background-size: cover;
     background-attachment: fixed;
     position: relative;
     z-index: 2;
@@ -95,7 +95,7 @@ section {
 }
 
 .col-img {
-    background-image: url(../images/iphone_mockup.png);
+    background-image: url(../images/STORYPLAi_full.png);
     background-position: center;
     background-size: cover;
     min-height: 500px;
